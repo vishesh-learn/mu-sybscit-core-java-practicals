@@ -1,3 +1,7 @@
+/*
+10b. Design a calculator based on AWT application.
+*/
+
 import java.awt.*;
 import java.awt.event.*;
  

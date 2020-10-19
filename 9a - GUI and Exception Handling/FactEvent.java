@@ -1,3 +1,7 @@
+/*
+9a. Design a AWT program to print the factorial for an input value.
+*/
+
 import java.awt.*;
 import java.awt.event.*;
 import java.applet.*;

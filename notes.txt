@@ -1,0 +1,2 @@
+to compile example.java files -> javac example.java
+to run example.class files -> java example
