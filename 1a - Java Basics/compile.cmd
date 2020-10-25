@@ -1,0 +1,1 @@
+cmd /k javac "1a - Java Basics.java"
