@@ -4,13 +4,12 @@
 
 import java.awt.*;
 import java.awt.event.*;
+import java.applet.*;
 
-public class StringOperationsGUI extends Frame{
+public class StringOperationsGUI extends Applet{
 	TextField tf1, tf2;
 	
 	public StringOperationsGUI(){
-		setLayout(new FlowLayout());
-		
 		Label lb1 = new Label("Enter String :");
 		Label lb2 = new Label("Result is :");
 		tf1 = new TextField(25);
@@ -61,9 +60,8 @@ class Inner4 implements ActionListener{
 
 	public static void main(String ar[]){
 		StringOperationsGUI fr = new StringOperationsGUI();
-		fr.setSize(300,300); 
+		fr.setSize(1000,300); 
 
-		fr.setTitle("Performing String operations");
 		fr.setVisible(true);
 	}
 } 
