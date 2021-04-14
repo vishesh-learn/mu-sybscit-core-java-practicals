@@ -1,0 +1,55 @@
+List of Practical
+1.Java Basics
+a.Write  a  Java  program  that  takes  a  number  as  input  and  prints  its  multiplication  table upto 10.
+b.Write a Java program to display the following pattern.
+*****
+****
+***
+**
+*
+c.Write a Java program to print the area and perimeter of a circle.
+
+2.Use of Operators
+a.Write a Java program to add two binary numbers.
+b.Write  a  Java  program  to  convert  a  decimal  number  to  binary  number  and  vice  versa.
+c.Write a Java program to reverse a string.
+
+3.Java Data Types
+a.Write a Java program to count the letters, spaces, numbers and other characters of an input string.
+b.Implement a Java function that calculates the sum of digits for a given char array consisting of the digits '0' to '9'. The function should return the digit sum as a long value.
+c.Find the smallest and largest element from the array
+
+4.Methods and Constructors
+a.Designed a class SortData that contains the method asec() and desc().
+b.Designed a class that demonstrates the use of constructor and destructor.
+c.Write a java program to demonstrate the implementation of abstract class.37
+
+5.Inheritance
+a.Write a java program to implement single levelinheritance.
+b.Write a java program to implement method overriding
+c.Write a java program to implement multiple inheritance.
+
+6.Packages and Arrays
+a.Create a package, Add the necessary classes and import the package in java class.
+b.Write a java program to add two matricesand print the resultant matrix.
+c.Write a java program for multiplying two matricesand print the product for the same.
+
+7.Vectors and Multithreading
+a.Write a java program to implement the vectors.
+b.Write a java program to implement thread life cycle.
+c.Write a java program to implement multithreading.
+
+8.File Handling
+a.Write a java program to open a file and display the contents in the console window.
+b.Write a java program to copy the contents from one file to other file.
+c.Write a java program to read the student data from user and store it in the file.
+
+9.GUI and Exception Handling
+a.Design a AWT program to print the factorial for an input value.
+b.Design an AWT program to perform various string operations like reverse string, string concatenation etc.
+c.Write a java program to implement exception handling.
+
+10.GUI Programming.
+a.Design an AWT application that contains the interface to add student information and display the same.
+b.Design a calculator based on AWT application.
+c.Design an AWT application to generate result marks sheet.
