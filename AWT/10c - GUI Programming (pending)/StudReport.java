@@ -80,14 +80,14 @@ public class StudReport extends Applet implements ActionListener{
 
     public void paint(Graphics g){
         g.drawString("STUDENT REPORT",100,275);
-        g.drawString("Reg. No.: "+textRegNo.getText(),0,300);
-        g.drawString("Name : "+textName.getText(),0,325);
-        g.drawString("Java:  "+textJava.getText(),0,350);
-        g.drawString("Software Engineering : "+textSE.getText(),0,375);
-        g.drawString("Computer Architecture : "+textCA.getText(),0,400);
-        g.drawString("Banking & Insurance : "+textBI.getText(),0,425);
-        g.drawString("SSPD : "+textSSPD.getText(),0,450);
-        g.drawString("Total: "+total,0,475);
-        g.drawString("Average: "+averageMarks,0,500);
+        g.drawString("Reg. No.: " + textRegNo.getText(),0,300);
+        g.drawString("Name : " + textName.getText(),0,325);
+        g.drawString("Java:  " + textJava.getText(),0,350);
+        g.drawString("Software Engineering : " + textSE.getText(),0,375);
+        g.drawString("Computer Architecture : " + textCA.getText(),0,400);
+        g.drawString("Banking & Insurance : " + textBI.getText(),0,425);
+        g.drawString("SSPD : " + textSSPD.getText(),0,450);
+        g.drawString("Total: " + total,0,475);
+        g.drawString("Average: " + averageMarks,0,500);
     }
 }
