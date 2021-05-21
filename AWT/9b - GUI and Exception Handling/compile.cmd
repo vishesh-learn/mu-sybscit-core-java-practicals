@@ -1,1 +1,0 @@
-cmd /k javac "StringOperationsGUI.java"
