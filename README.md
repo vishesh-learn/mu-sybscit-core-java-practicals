@@ -1,11 +1,9 @@
-# mu-sybscit-core-java-practicals
+# Mumbai University SYBScIT Core Java Practicals
 
-Hello everyone, I am a former student of Mumbai University college, India.
-In my Second Year of BSc IT, I experienced that how difficult is to find practicals of my syllabus, so I decided to make them easily accessible. This is my first repository in this goal and will be making more for each subject.
+Welcome to the Mumbai University SYBScIT Core Java Practicals repository! This repository is created to help students of Mumbai University and its associated colleges find practicals for their Core Java course.
 
-This repository is made in hope to help students of Mumbai University (and associated colleges).
+As a former student of Mumbai University, I understand how difficult it can be to find practicals for the syllabus. This repository aims to make it easier for students to access Core Java practicals.
 
-Java version used: jdk1.8.0_231
-I know this is an old version, but as per the syllabus, this version is recommended.
+Please note that the Java version used in this repository is `jdk1.8.0_231`. While this may be an older version, it is the version recommended by the syllabus.
 
-* Currently, the repo does not contain AWT based practicals.
+Currently, this repository does not contain any AWT-based practicals.
